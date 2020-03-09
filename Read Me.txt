@@ -1,0 +1,16 @@
+All code writen by Sam Cooley.
+
+This project contains a graphics demo using GLSL.
+
+
+
+Controls:
+
+Use the 'R', 'G' and 'B' keys on your keyboard to toggel on or off their respected colour channels.
+(note: turn on multiple colour channels simultaniusly to get a mix of colours)
+
+Use the RIGHT, LEFT, UP & DOWN arrow keys to rotate the camera.
+
+Use W, A, S & D TO MOVE;
+
+use q and e for up and down;

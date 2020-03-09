@@ -1,0 +1,6 @@
+﻿  Scene.cpp
+c:\users\sam\desktop\current projects\lwb\biohazard engine 2.0\biohazard engine 2.0\scene.cpp(16): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\sam\desktop\current projects\lwb\biohazard engine 2.0\biohazard engine 2.0\scene.cpp(119): warning C4018: '<': signed/unsigned mismatch
+c:\users\sam\desktop\current projects\lwb\biohazard engine 2.0\biohazard engine 2.0\scene.cpp(128): warning C4018: '<': signed/unsigned mismatch
+  BioHazard Engine 2.0.vcxproj -> C:\Users\Sam\Desktop\Current Projects\LWB\BioHazard Engine 2.0\Debug\BioHazard Engine 2.0.exe
+  BioHazard Engine 2.0.vcxproj -> C:\Users\Sam\Desktop\Current Projects\LWB\BioHazard Engine 2.0\Debug\BioHazard Engine 2.0.pdb (Full PDB)
